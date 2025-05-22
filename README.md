@@ -1,2 +1,8 @@
 # simple-snake
-simple snake game, created in python.
+
+pip install pygame
+
+
+import pygame
+import time
+import random
